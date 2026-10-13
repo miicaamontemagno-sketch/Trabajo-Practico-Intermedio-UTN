@@ -205,6 +205,7 @@ body{
     color: white;
     margin-right: 35px;
     margin-left: 35px;
+
 }
 
 .contenido{
@@ -340,7 +341,7 @@ body{
     flex-direction: column;
     border: 1px solid #333;
     border-radius: 5px;
-    background-color: #ffffff1f;
+    background-color: #1c1c1c;
     justify-content: space-between;
     font-size: 14px;
     flex-wrap: wrap;
@@ -351,13 +352,10 @@ body{
 .img-trj{
     display: flex;
     align-items: center;
-    width: 108%;
     justify-content: flex-start;
     border-radius: 5px;
     position: relative;
-    right: 13px;    
     top: -40px;
-
 }
 
 .texto-trj{
@@ -384,8 +382,6 @@ body{
     padding: 12px 20px;
     justify-content: center;
     position: relative;
-    right: 12px;
-    top: 20px;
 }
 
 .flecha-trj{
@@ -960,7 +956,7 @@ body{
     max-width:100% !important;
     flex:none !important;
     grid-column:auto !important;
-    background:#151b2e !important;
+    background:#1c1c1c !important;
     border-radius:16px !important;
     overflow:hidden !important;
     text-align:left !important;
